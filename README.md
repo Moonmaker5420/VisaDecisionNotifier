@@ -4,7 +4,10 @@ VisaDecisionNotifier is a Python script that automates the process of checking i
 
 ## Update following fields :
 
-search_string = ""  - Replace with the string to search for,
-to_email=""         - recipient email,
-smtp_user="",       - Your Gmail email address,
+search_string = ""  - Replace with the string to search for
+
+to_email=""         - recipient email
+
+smtp_user="",       - Your Gmail email address
+
 smtp_password=""    - Your Gmail App Password
